@@ -14,7 +14,7 @@
 
 - 💬 Ask me about: **how to procrastinate effectively XD**
 
-- 📫 How to reach me: **archejewelkim@gmail.com | https://www.linkedin.com/in/jk-arche/**
+- 📫 How to reach me: **archejewelkim@gmail.com**
 
 - ⚡ Fun fact: **I think I'm a decent cook haha when outside monitors, you'll find me jamming on my guitar or just lost in the world of music**
 
