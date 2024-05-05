@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-archejk&style=plastic"/> </p>
 
+<p align="center"> <img src="https://github.com/archejk/archejk/assets/112525566/18e36981-2009-4992-8b50-bc31c652f6c3"/> </p>
+
 ---
 
 <h3 align="left">👋 Get to know JK:</h3>
