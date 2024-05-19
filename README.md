@@ -22,7 +22,7 @@ BS Information Technology | Software Engineer | Full Stack Developer | 24
 
 - ⚡ Fun fact: **I think I'm a decent cook haha when outside monitors, you'll find me jamming on my guitar or just lost in the world of music**
 
-- 🖤 Other Interests: **I enjoy watching K-dramas, anime, documentaries, and TV shows. Occasionally, I play gacha games such as Genshin Impact and Honkai Star Rail**
+- 🖤 Other interests: **I enjoy watching K-dramas, anime, documentaries, and TV shows. Occasionally, I play gacha games such as Genshin Impact and Honkai Star Rail**
 
 ---
 
