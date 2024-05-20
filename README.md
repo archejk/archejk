@@ -155,8 +155,8 @@ BS Information Technology | Software Engineer | Full Stack Developer | 24
 ---
 
 <h3 align="left">🔥 Some of my Stats:</h3>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=archejk&theme=holi-theme)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=archejk&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
