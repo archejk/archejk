@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 🚀 I'm JK,</h1>
-<h3 align="center">👨‍💻 Frustrated Software Engineer</h3>
+<h3 align="center">👨‍💻 Software Engineer | Full Stack Developer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-archejk&style=plastic"/> </p>
 
@@ -15,8 +15,6 @@
 BS Information Technology | Software Engineer | Full Stack Developer | 24
 
 - 🌱 Learning: **Vue.js, React and the art of balancing coffee cups**
-
-- 💬 Ask me about: **how to procrastinate effectively XD**
 
 - 📫 How to reach me: **archejewelkim@gmail.com**
 
