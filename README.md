@@ -1,5 +1,4 @@
 <h1 align="center">Hello World 🚀 I'm JK,</h1>
-<h3 align="center">👨‍💻 Software Engineer | Full Stack Developer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-archejk&style=plastic"/> </p>
 
@@ -12,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-archejewelkim@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:archejewelkim@gmail.com)](mailto:archejewelkim@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-jkarche-0072b1?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jk-arche/)](https://www.linkedin.com/in/jk-arche/) [![Twitter Badge](https://img.shields.io/badge/-_arkiii_-00acee?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/_arkiii_/)](https://www.twitter.com/_arkiii_/) [![Instagram Badge](https://img.shields.io/badge/-_arkiiii-C13584?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/_arkiiii/)](https://www.instagram.com/_arkiiii/)
 
-BS Information Technology | Software Engineer | Full Stack Developer | 24
+BS Information Technology | Software Developer | 24
 
 - 🌱 Learning: **Vue.js, React and the art of balancing coffee cups**
 
@@ -20,7 +19,7 @@ BS Information Technology | Software Engineer | Full Stack Developer | 24
 
 - ⚡ Fun fact: **I think I'm a decent cook haha when outside monitors, you'll find me jamming on my guitar or just lost in the world of music**
 
-- 🖤 Other interests: **I enjoy watching K-dramas, anime, documentaries, and TV shows. Occasionally, I play gacha games such as Genshin Impact and Honkai Star Rail**
+- 🖤 Other interests: **I enjoy watching Blueyyyy** :)))
 
 ---
 
