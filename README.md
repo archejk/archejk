@@ -13,7 +13,7 @@
 
 BS Information Technology | Software Developer | 24
 
-- 🌱 Learning: **Vue.js, React and the art of balancing coffee cups**
+- 🌱 Learning: **Vue.js, React, RoR and the art of balancing coffee cups**
 
 - 📫 How to reach me: **archejewelkim@gmail.com**
 
