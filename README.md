@@ -153,7 +153,18 @@ BS Information Technology | Software Developer | 24
 
 <h3 align="left">🔥 Some of my Stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=archejk&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=archejk&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak">
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archejk&hide_progress=true&theme=tokyonight" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 ---
 
